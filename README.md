@@ -1,2 +1,2 @@
 # HFdataset-builder
-Huggingface dataset builder
+Huggingface dataset downloader
